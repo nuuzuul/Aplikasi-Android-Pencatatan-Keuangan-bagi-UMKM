@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555775848285",
+    "project_id": "login-umkm",
+    "storage_bucket": "login-umkm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555775848285:android:477560de7e0cc2f166c2b4",
+        "android_client_info": {
+          "package_name": "com.azhar.hitungpengeluaran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMiSjxmdbOdQ7Y87OBYEritrs2Mu8n90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
